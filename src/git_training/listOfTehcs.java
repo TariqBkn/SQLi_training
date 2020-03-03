@@ -6,7 +6,7 @@ public class listOfTehcs {
 		String[] techs= {"mvn","ant","thirdTech"};
 		
 		for (String tech : techs) {
-			System.err.println(tech);
+			System.err.println(tech); System.out.println("--");
 		}
 	}
 
