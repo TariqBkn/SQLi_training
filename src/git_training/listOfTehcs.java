@@ -8,6 +8,7 @@ public class listOfTehcs {
 		for (String tech : techs) {
 			System.err.println(tech); System.out.println("edited from master");
 			System.err.println(tech); System.out.println("--");
+			//this is comment
 		}
 	}
 
